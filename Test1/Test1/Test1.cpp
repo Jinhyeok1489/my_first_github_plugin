@@ -5,4 +5,6 @@ int main()
 	std::cout << "Hello World!\n";
 
 	std::cout << "This lecture is good!\n" ;
+
+	std::cout << "Gazuaaaaaaaa!\n";
 }
